@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "696864004029",
+    "firebase_url": "https://sample-a657b.firebaseio.com",
+    "project_id": "sample-a657b",
+    "storage_bucket": "sample-a657b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696864004029:android:83b74049f8b7816a",
+        "android_client_info": {
+          "package_name": "com.abc.greendaoexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696864004029-h26u9m7eo72o9b62479hts3830r1cstl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnqvwb7d2qtiY_ls414Va3FRFVRIrN6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696864004029:android:546553708ed65ac9",
+        "android_client_info": {
+          "package_name": "com.vnnovate.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696864004029-h26u9m7eo72o9b62479hts3830r1cstl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnqvwb7d2qtiY_ls414Va3FRFVRIrN6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
